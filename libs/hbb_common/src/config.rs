@@ -106,8 +106,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["192.168.8.250"];
-pub const RS_PUB_KEY: &str = "LvUtKMa6TtxoAOmXSu+SpNRybehunF2KJGOMhhneGDc=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rd.nicaer.top"];
+pub const RS_PUB_KEY: &str = "ai2xD7VdOnep8gNMPMJEa+IWBXhUvwH2XDCp3F9bE0c=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
